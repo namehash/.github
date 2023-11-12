@@ -11,12 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Welcome to the NameHash GitHub.
+Welcome to the NameHash Labs GitHub.
 
-We're passionate bringing the benefits of decentralized identity to all.
+We're passionate about growing ENS and bringing the benefits of decentralized identity to all.
 
 Our open source projects welcome contributions and feedback from the community !
 
-Like to get in contact? Send an email to devops@namehash.io or contact lightwalker.eth
+Like to get in contact? Send an email to hello@namehashlabs.org or contact lightwalker.eth
 
-... or visit us at https://namehash.io
+... or visit us at https://namehashlabs.org
